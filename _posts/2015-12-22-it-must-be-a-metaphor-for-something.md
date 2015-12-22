@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Tis but a scratch
-datePublished: '2015-12-22T22:03:27.930Z'
-dateModified: '2015-12-22T22:03:13.142Z'
+datePublished: '2015-12-22T22:08:57.659Z'
+dateModified: '2015-12-22T22:08:48.390Z'
 title: It must be a metaphor for something
 author: []
 authors: []

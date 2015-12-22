@@ -1,7 +1,7 @@
 name: Be Brave
 favicon: null
-layout_spectrum: 0.9259345906320959
-typography_spectrum: 0.7257520980201662
+layout_spectrum: 1
+typography_spectrum: 0.4987
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6782501202542335
-  lightness: 0.6437729150056839
-  saturation: 0.7674428678583354
-  rhythmicContrast: 0.6251543497201055
+    - '#e6e2df'
+    - '#b88e76'
+    - '#c0b5af'
+    - '#252229'
+    - '#964534'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []

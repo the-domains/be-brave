@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: Tis but a scratch
-datePublished: '2015-12-22T22:08:57.659Z'
-dateModified: '2015-12-22T22:08:48.390Z'
+datePublished: '2015-12-22T22:09:47.777Z'
+dateModified: '2015-12-22T22:09:43.152Z'
 title: It must be a metaphor for something
 author: []
+sourcePath: _posts/2015-12-22-it-must-be-a-metaphor-for-something.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-it-must-be-a-metaphor-for-something.md
-published: true
 url: it-must-be-a-metaphor-for-something/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1b8bb48-007e-488e-9d2a-251dc5648c8f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc2e7c128d5e4c3ca590e8380076febd8fad537b.jpg)
 
 # It must be a metaphor for something
 
